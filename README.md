@@ -1,4 +1,4 @@
-# COVID-19 State Data Visualization Dashboard
+# COVID-19 Statewise Data Visualization Dashboard
 
 ## Description
 
